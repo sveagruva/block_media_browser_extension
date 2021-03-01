@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "version": "0.3.3.2",
+  "version": "1",
   "name": "Block twitter and reddit",
-  "description": "blocks twitter and reddit cz that's why",
+  "description": "closes twitter and reddit",
   "content_scripts": [{
     "matches": [
       "*://*.twitter.com/*",
